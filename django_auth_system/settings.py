@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-n9980oha*#u&tm6!!w%1po8rgi1v63i8_an#2tgh3mrg7zo0s+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'stakes-pn8o.onrender.com'] 
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'merlin-0nel.onrender.com'] 
 
 
 # Application definition
@@ -172,7 +172,7 @@ AUTHENTICATION_BACKENDS = [
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-CSRF_TRUSTED_ORIGINS = ['https://stakes-pn8o.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://merlin-0nel.onrender.com']
 
 # Login settings
 LOGIN_URL = 'accounts:login'
