@@ -1,0 +1,9 @@
+Device Name	DESKTOP-67UK9KL
+Processor	Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz   1.60 GHz
+Installed RAM	4.00 GB
+Storage	58 GB SSD VID:45 DS2064
+Graphics Card	Intel(R) HD Graphics (114 MB)
+Device ID	2BC2D429-B341-4FB5-A3B1-0AE6CB3B3CE9
+Product ID	00379-20000-00001-AAOEM
+System Type	64-bit operating system, x64-based processor
+Pen and touch	Touch support with 10 touch points
